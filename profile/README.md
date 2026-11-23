@@ -1,5 +1,4 @@
-<img alt="Patel's Labs" src="https://raw.githubusercontent.com/Patels-Labs/.github/main/brand/readme-banner-light.png#gh-light-mode-only">
-<img alt="Patel's Labs" src="https://raw.githubusercontent.com/Patels-Labs/.github/main/brand/readme-banner-dark.png#gh-dark-mode-only">
+<img alt="Patel's Labs" src="https://raw.githubusercontent.com/Patels-Labs/.github/main/brand/readme-banner-dark.png">
 
 Small, careful software by [Heet Patel](https://patelheet.com): apps for Mac and iPhone, games, Discord bots and Minecraft server tooling.
 
